@@ -1,0 +1,58 @@
+body {
+    margin: auto;
+    width: 1600px
+}
+
+/* logo */
+
+.header {
+    margin-top: 20px;
+}
+.logo {
+    border-radius: 9px;
+    width: 150px;
+}
+
+.header h3 {
+    font-family: "Comic Sans MS";
+    font-size: 14px;
+    color: rgb(146, 238, 7);
+}
+
+/* menu */
+
+.navbar {
+    display: flex;
+    width: 1600px;
+    font-family: "Comic Sans MS";
+    margin-top: 50px;
+    justify-content: space-between;
+}
+
+.page {
+    text-align:start;
+    font-size: 20px;
+    font-weight: bold;
+    color:black;
+}
+
+.page a {
+    text-decoration: none;
+}
+
+/* articles */
+
+.article {
+    margin-top: 100px;
+    font-family: "Comic Sans MS";
+}
+
+.article h2 {
+    color:rgb(124, 82, 4);
+}
+
+.article p {
+    margin-top: -15px;
+    color: orange;
+}
+
